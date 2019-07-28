@@ -1,3 +1,3 @@
-export default{
-    api_test:'/api/test'
+export default {
+    api_test: '/api/test'
 }
